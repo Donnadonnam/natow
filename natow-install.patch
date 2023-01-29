@@ -1,54 +1,43 @@
-diff -urN natow-0.2.10.orig/Makefile natow-0.2.10/Makefile
---- natow-0.2.10.orig/Makefile	Thu Sep 27 06:34:19 2001
-+++ natow-0.2.10/Makefile	Sat Nov 17 18:33:17 2001
-@@ -1,7 +1,7 @@
- VERSION = 0.2.10
- INSTALLDIR = /usr/local/games
--NATOW=natow-$(VERSION)
--NATOWSOLO=natow-solo-$(VERSION)
-+NATOW=natow
-+NATOWSOLO=natow-solo
- TMPDIR=/tmp/natow-tmp
- 
- all:
-@@ -25,29 +25,21 @@
- # prepare 'natow' place
- 	mkdir -p $(INSTALLDIR)/bin
- # prepare data place
--	mkdir -p $(INSTALLDIR)/$(NATOW)
-+	mkdir -p $(INSTALLDIR)/share/$(NATOW)
- # copy natow binary
- 	cp natow $(INSTALLDIR)/bin/$(NATOW)
--	cp natow-solo $(INSTALLDIR)/bin/$(NATOWSOLO)
- # copy data
--	cp -r levels/ $(INSTALLDIR)/$(NATOW)/
--	cp -r images/ $(INSTALLDIR)/$(NATOW)/
--	cp munitions tanks usable $(INSTALLDIR)/$(NATOW)/
-+	cp -r levels/ $(INSTALLDIR)/share/$(NATOW)/
-+	cp -r images/ $(INSTALLDIR)/share/$(NATOW)/
-+	cp munitions tanks usable $(INSTALLDIR)/share/$(NATOW)/
- # remove unwanted files
--	rm $(INSTALLDIR)/$(NATOW)/levels/Makefile
--	rm $(INSTALLDIR)/$(NATOW)/images/Makefile
--	rm -rf $(INSTALLDIR)/$(NATOW)/images/CVS/ $(INSTALLDIR)/$(NATOW)/images/fonts/CVS/ \
--	       $(INSTALLDIR)/$(NATOW)/images/logos/CVS/ $(INSTALLDIR)/$(NATOW)/images/textures/CVS/
--	rm -rf $(INSTALLDIR)/$(NATOW)/levels/CVS/ $(INSTALLDIR)/$(NATOW)/levels/maps/CVS/ \
--	       $(INSTALLDIR)/$(NATOW)/levels/skys/CVS/ $(INSTALLDIR)/$(NATOW)/levels/snapshots/CVS/ \
--	       $(INSTALLDIR)/$(NATOW)/levels/textures/CVS/
--# create the script that will run natow
--	printf "#!/bin/sh\n\n" >$(INSTALLDIR)/bin/natow
--	printf "# script to start N.A.T.O.W.\n\n" >>$(INSTALLDIR)/bin/natow
--	printf "export INSTALLDIR=\"$(INSTALLDIR)\"\n" >>$(INSTALLDIR)/bin/natow
--	printf "export NATOW=\"$(NATOW)\"\n\n" >>$(INSTALLDIR)/bin/natow
--	cat NATOW_SCRIPT >>$(INSTALLDIR)/bin/natow
--	chmod +x $(INSTALLDIR)/bin/natow
-+	rm $(INSTALLDIR)/share/$(NATOW)/levels/Makefile
-+	rm $(INSTALLDIR)/share/$(NATOW)/images/Makefile
-+	rm -rf $(INSTALLDIR)/share/$(NATOW)/images/CVS/ $(INSTALLDIR)/share/$(NATOW)/images/fonts/CVS/ \
-+	       $(INSTALLDIR)/share/$(NATOW)/images/logos/CVS/ $(INSTALLDIR)/share/$(NATOW)/images/textures/CVS/
-+	rm -rf $(INSTALLDIR)/share/$(NATOW)/levels/CVS/ $(INSTALLDIR)/share/$(NATOW)/levels/maps/CVS/ \
-+	       $(INSTALLDIR)/share/$(NATOW)/levels/skys/CVS/ $(INSTALLDIR)/share/$(NATOW)/levels/snapshots/CVS/ \
-+	       $(INSTALLDIR)/share/$(NATOW)/levels/textures/CVS/
- 
- release:
- # Clean out a previous release
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harry styles KIA forum 2023</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <img src="https://theme.zdassets.com/theme_assets/1845577/b1d153cb7c14b1519607f5b0f786930b6aecd973.png" alt="Logo" class="logo">
+</head><br/><br/><br/><br/><br/>
+<img class="top-image"  src="images/top.png"/><br/><br/><hr/><br/>
+<body class="bg">
+  
+<body>
+    <h1 class="h1"><u>
+HOW TO PROCESS CASHAPP PAYMENT</u>
+    </h1><h2 class="page2"a>
+    *SEND A TOTAL OF $570 TO THE CAHSAPP TAG $Torytime29 (ANTONIO MOORE)<br/><hr/>
+    *SEND AN SMS WITH YOUR FULL NAME AND A SCREENSHOT OF YOUR PAYMENT  TO  <u>210-686-3696</u><br/><hr/>
+    *PAYMENT USUALLY CONFIRMS WITHIN 10 MINS WHICH YOUR TICKET AND SEAT DETAILS WILL BE EMAILED TO YOU</h2><hr/>
+</body><br/><br/><br/><br>
+	 <h1 class="red"><u>
+If you need futher assistance on making paymnet via  cashapp please SMS kathy on  2106863696</u></h>
+	
+
+
+<footer><img class="foot-img" align="center" src="images/37.jpeg"/>
+  
+<h class="affi">OUR AFFILIATES:</h><br/><br/>
+	<div class="container">
+    <div class="image">
+      <a href=""><img src="https://www.sparkgist.com/wp-content/uploads/2022/07/Cash-App.png"/></a>
+      <div class="overlay"><img src="https://www.sparkgist.com/wp-content/uploads/2022/07/Cash-App.png"/></div>
+    </div>
+    <div class="image">
+      <a href=""><img src="https://ca-times.brightspotcdn.com/dims4/default/7c08877/2147483647/strip/true/crop/6720x4480+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5c%2Fef%2F9c92d97e449cb0ed576ff339dc55%2F939221-la-fi-kia-forum-gxc-0038.jpg"/></a>
+      <div class="overlay"><img src="https://ca-times.brightspotcdn.com/dims4/default/7c08877/2147483647/strip/true/crop/6720x4480+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5c%2Fef%2F9c92d97e449cb0ed576ff339dc55%2F939221-la-fi-kia-forum-gxc-0038.jpg"/></div>
+    </div>
+    <div class="image">
+      <a href=""><img src="https://www.livenation.com/ticketmaster/img/ticketmaster-banner2500w.png"/></a>
+      <div class="overlay"><img src="https://www.livenation.com/ticketmaster/img/ticketmaster-banner2500w.png"/></div>
+    </div>
+</html>
